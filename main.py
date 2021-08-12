@@ -44,4 +44,4 @@ async def test_join(ctx, member):
 
 
 
-client.run("ODcxMDU5MzgxMDc5Mzk2Mzky.YQVzQw.FMBZ0C655pyQHVWAEkmpX4IIzGs")
+client.run("")
